@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: 소개
+  url: /about/
+
+- title: 기사
+  url: /articles/
+
+- title: 블로그
+  url: /blog/
+
+# - title: 테마 설정
+#   url: /theme-setup/
+
+# - title: Made Mistakes
+#   url: http://mademistakes.com
+
+- title: 검색
+  url: /search/

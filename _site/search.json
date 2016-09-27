@@ -1,0 +1,55 @@
+[
+
+  
+    {
+      "title"			: "지킬 테마 적용",
+      "link"			: "/blog/jekyll-themen/",
+      "excerpt"		: "지킬 테마를 바꾼 후에 수정하는 방법"
+    }
+  
+
+  
+    ,{
+      "title"			: "서브라임 마크다운 사용법",
+      "link"			: "/blog/sublime-markdown/",
+      "excerpt"		: "서브라임 마크다운 플러그인으로 깃허브 블로그에 글 쓰는 방법에 대한 요약"
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "About the Jekyll Theme",
+      "link"			: "/about/",
+      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
+    }
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
+    }
+  
+
+  
+
+  
+
+  
+
+]
